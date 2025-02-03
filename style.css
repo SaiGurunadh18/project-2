@@ -1,0 +1,15 @@
+h1{
+     background-color: yellowgreen;
+ }
+ .gallery{
+     display: inline-block;
+     border: 1px solid gainsboro;
+ }
+ .description{
+     padding: 10px;
+     text-align: center;
+     color: white;
+ }
+ .gallery:hover{
+     border: 3px solid black;
+ }
